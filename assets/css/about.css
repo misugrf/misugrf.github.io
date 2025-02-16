@@ -279,7 +279,7 @@ h6 {
   height: 100%;
   background: url("../img/hero-bg1.png") top right no-repeat;
   background-size: cover; /* Asigură-te că imaginea acoperă întreaga secțiune */
-  filter: brightness(90%);
+  filter: brightness(50%);
   z-index: -1;
 }
 
