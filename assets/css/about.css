@@ -262,7 +262,6 @@ h6 {
   width: 100%;
   height: 100vh;
   position: relative;
-  background-color: red;
 }
 
 @media (min-width: 992px) {
@@ -278,7 +277,7 @@ h6 {
   left: 0;
   width: 100%;
   height: 100%;
-  background: url("../img/hero-bg1.png") top right no-repeat;
+ background: url("https://misugrf.github.io/assets/img/hero-bg1.jpg") top right no-repeat;
   background-size: cover; /* Asigură-te că imaginea acoperă întreaga secțiune */
   filter: brightness(50%);
   z-index: -1;
